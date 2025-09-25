@@ -18,6 +18,7 @@ namespace ConsoleApp1
 
             Console.WriteLine(DrawHallowTriangle(4));
 
+            //календарь для сентября
             PrintCalendar(10);
 
         }
